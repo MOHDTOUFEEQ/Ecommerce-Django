@@ -1,2 +1,14 @@
+asgiref==3.7.2
+distlib==0.3.8
+Django==5.0
+filelock==3.13.1
 gunicorn==21.2.0
+mysqlclient==2.2.1
 packaging==23.2
+Pillow==10.1.0
+platformdirs==4.1.0
+psycopg2-binary==2.9.9
+setuptools==69.0.2
+sqlparse==0.4.4
+tzdata==2023.3
+virtualenv==20.25.0
